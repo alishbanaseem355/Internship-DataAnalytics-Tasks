@@ -64,6 +64,13 @@ Folder: Task5_Retail_TimeSeries/
 
 Key Tools: Python, Pandas, Matplotlib, Time Series Analysis
 
+## Skills & Tools Used
+- **Data Cleaning & Preprocessing**
+- **Exploratory Data Analysis (EDA)**
+- **Data Visualization:** Excel, Seaborn, Matplotlib
+- **Customer Segmentation (RFM)**
+- **Time Series Analysis**
+- **Programming Languages & Tools:** Python, Pandas, NumPy, Jupyter Notebook
 
 
 
