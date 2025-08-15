@@ -2,7 +2,7 @@ Internship Data Analytics Tasks
 
 This repository contains the tasks completed during my Data Analytics Internship. The projects cover data cleaning, exploratory data analysis (EDA), visualization, segmentation, and time series analysis using Excel, Python, and visualization tools.
 
-📌 Completed Tasks
+Completed Tasks
 🔹 Task 1: Sales Performance Dashboard (Excel)
 
 Imported and cleaned a sales dataset (Superstore Sales).
@@ -12,6 +12,7 @@ Created pivot tables to summarize key metrics: total revenue, units sold, and mo
 Built an interactive dashboard with charts to visualize overall sales performance.
 
 Folder: Task1_Sales_Dashboard/
+
 Key Tools: Excel, Pivot Tables, Charts
 
 🔹 Task 2: Exploratory Data Analysis on Titanic Dataset (Python)
@@ -23,6 +24,7 @@ Generated summary statistics and insights (e.g., survival by gender/class).
 Visualized survival patterns using bar plots and heatmaps.
 
 Folder: Task2_Titanic_EDA/
+
 Key Tools: Python, Pandas, Seaborn, Matplotlib
 
 🔹 Task 3: Customer Segmentation Using RFM Analysis (Python)
@@ -34,6 +36,7 @@ Scored customers based on RFM and segmented into groups (loyal, inactive, etc.).
 Suggested actionable marketing strategies for each group.
 
 Folder: Task3_Customer_Segmentation/
+
 Key Tools: Python, Pandas, Seaborn
 
 🔹 Task 4: Data Cleaning & Insights from Survey Data (Python)
@@ -45,9 +48,10 @@ Applied label encoding and mapping for categorical variables.
 Extracted insights about respondent behavior and preferences.
 
 Folder: Task4_Survey_Data_Cleaning/
+
 Key Tools: Python, Pandas, Data Preprocessing
 
-🔹 Task 7: Time Series Breakdown of Retail Sales (Python)
+🔹 Task 5: Time Series Breakdown of Retail Sales (Python)
 
 Analyzed Walmart Sales dataset to identify seasonal patterns and trends.
 
@@ -55,9 +59,10 @@ Applied moving averages and visualized revenue breakdown by product and region.
 
 Highlighted insights on seasonality and sales performance.
 
-Folder: Task7_Retail_TimeSeries/
+Folder: Task5_Retail_TimeSeries/
+
 Key Tools: Python, Pandas, Matplotlib, Time Series Analysis
 
 
 
-Ti
+
