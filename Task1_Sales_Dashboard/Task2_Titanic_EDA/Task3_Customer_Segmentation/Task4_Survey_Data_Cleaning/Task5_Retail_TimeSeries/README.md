@@ -1,5 +1,5 @@
 
-# Task 7: Time Series Breakdown of Retail Sales
+# Task 5: Time Series Breakdown of Retail Sales
 
 **Dataset:** Walmart Sales Forecasting (Kaggle)  
 **Tools:** Python (Pandas, Matplotlib, Time Series Analysis)  
