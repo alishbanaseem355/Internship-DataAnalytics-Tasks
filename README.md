@@ -1,9 +1,10 @@
-Internship Data Analytics Tasks
+**Internship Data Analytics Tasks**
 
 This repository contains the tasks completed during my Data Analytics Internship. The projects cover data cleaning, exploratory data analysis (EDA), visualization, segmentation, and time series analysis using Excel, Python, and visualization tools.
 
-Completed Tasks
-🔹 Task 1: Sales Performance Dashboard (Excel)
+**Completed Tasks**
+
+**🔹 Task 1: Sales Performance Dashboard (Excel)**
 
 Imported and cleaned a sales dataset (Superstore Sales).
 
@@ -15,7 +16,7 @@ Folder: Task1_Sales_Dashboard/
 
 Key Tools: Excel, Pivot Tables, Charts
 
-🔹 Task 2: Exploratory Data Analysis on Titanic Dataset (Python)
+**🔹 Task 2: Exploratory Data Analysis on Titanic Dataset (Python)**
 
 Cleaned dataset by handling missing values and converting data types.
 
@@ -27,7 +28,7 @@ Folder: Task2_Titanic_EDA/
 
 Key Tools: Python, Pandas, Seaborn, Matplotlib
 
-🔹 Task 3: Customer Segmentation Using RFM Analysis (Python)
+**🔹 Task 3: Customer Segmentation Using RFM Analysis (Python)**
 
 Analyzed online retail dataset to calculate Recency, Frequency, and Monetary metrics.
 
@@ -39,7 +40,7 @@ Folder: Task3_Customer_Segmentation/
 
 Key Tools: Python, Pandas, Seaborn
 
-🔹 Task 4: Data Cleaning & Insights from Survey Data (Python)
+**🔹 Task 4: Data Cleaning & Insights from Survey Data (Python)**
 
 Worked with Kaggle Data Science Survey data containing missing values and duplicates.
 
@@ -51,7 +52,7 @@ Folder: Task4_Survey_Data_Cleaning/
 
 Key Tools: Python, Pandas, Data Preprocessing
 
-🔹 Task 5: Time Series Breakdown of Retail Sales (Python)
+**🔹 Task 5: Time Series Breakdown of Retail Sales (Python)**
 
 Analyzed Walmart Sales dataset to identify seasonal patterns and trends.
 
